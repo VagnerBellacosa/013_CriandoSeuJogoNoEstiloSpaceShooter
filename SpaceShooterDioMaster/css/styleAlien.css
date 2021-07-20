@@ -1,0 +1,52 @@
+.conteudo {
+	width:460px;
+	height:340px;
+	border:4px solid #999;
+	background:transparent url(../img/UFOAttack.png);
+}
+	
+#todas {
+	width:494px;
+	text-align:center;
+	margin:2.5em auto;
+}
+
+.moldura-um {
+	width: 510px;
+	border:20px inset #5d738b;
+	padding:25px;
+	background: transparent url(../img/bg_um.gif);
+}
+
+.moldura-dois {
+	width: 470px;
+	border:8px inset #5f6632;
+	padding:15px;
+	background: #b1b1c3;
+}
+
+
+ @keyframes fa-blink {
+     0% { opacity: 1; }
+     50% { opacity: 0.5; }
+     100% { opacity: 0; }
+ }
+.fa-blink {
+   -webkit-animation: fa-blink .75s linear infinite;
+   -moz-animation: fa-blink .75s linear infinite;
+   -ms-animation: fa-blink .75s linear infinite;
+   -o-animation: fa-blink .75s linear infinite;
+   animation: fa-blink .75s linear infinite;
+}
+
+	
+.footer {
+    position: fixed;
+    left: 0;
+    margin-top: 2rem;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+}	
