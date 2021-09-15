@@ -1,8 +1,10 @@
-# Javascript Game Developers
+# LABS 
+
+## Javascript Game Developers
 
 Bootcamp Javascript Game Developers
 
-## Criando seu jogo no estilo Space Shooter
+### Criando seu jogo no estilo Space Shooter
 
 DESCRIÇÃO
 
@@ -10,13 +12,15 @@ Nesse projeto, o desafio será criar um Space Shooter utilizando HTML, CSS e Jav
 
 <<<<<<< HEAD
 
-#### Autora Gabriela Pinheiro
-##### Front-End Developer, B8One
+##### Autora Gabriela Pinheiro
+###### Front-End Developer, B8One
 
 =======
-## Melhorias
+### Melhorias
 
 - Inclusao de icone
 - inclusao de footer
 - adaptaçao css
 - inclusao de comentarios 
+
+https://web.digitalinnovation.one/lab/criando-seu-jogo-no-estilo-space-shooter/learning/d02b301c-3245-431b-a2c6-51cfa3b58ebc
